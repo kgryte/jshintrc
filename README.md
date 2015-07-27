@@ -1,6 +1,6 @@
 .jshintrc
 =========
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependencies][dependencies-image]][dependencies-url]
 
 > Creates a `.jshintrc` file.
 
@@ -171,8 +171,8 @@ Copyright &copy; 2015. Athan Reines.
 [travis-image]: http://img.shields.io/travis/kgryte/jshintrc/master.svg
 [travis-url]: https://travis-ci.org/kgryte/jshintrc
 
-[coveralls-image]: https://img.shields.io/coveralls/kgryte/jshintrc/master.svg
-[coveralls-url]: https://coveralls.io/r/kgryte/jshintrc?branch=master
+[codecov-image]: https://img.shields.io/codecov/c/github/kgryte/jshintrc/master.svg
+[codecov-url]: https://codecov.io/github/kgryte/jshintrc?branch=master
 
 [dependencies-image]: http://img.shields.io/david/kgryte/jshintrc.svg
 [dependencies-url]: https://david-dm.org/kgryte/jshintrc
