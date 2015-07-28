@@ -1,6 +1,6 @@
 {
   "name": "@kgryte/jshintrc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Creates a .jshintrc file.",
   "author": {
     "name": "Athan Reines",
