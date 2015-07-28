@@ -231,7 +231,7 @@ describe( 'async', function tests() {
 				'encoding': 'utf8'
 			});
 
-			fpath2 = path.join( path.resolve( __dirname, '../lib/default' ), '.jshintrc' );
+			fpath2 = path.join( path.resolve( __dirname, '../lib/default' ), 'jshintrc' );
 			f2 = fs.readFileSync( fpath2, {
 				'encoding': 'utf8'
 			});
